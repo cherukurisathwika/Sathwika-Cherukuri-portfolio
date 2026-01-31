@@ -1,0 +1,21 @@
+# CitiMortgage – Senior Data Engineer
+
+At CitiMortgage, I worked on enterprise-scale data engineering solutions
+supporting mortgage origination, loan servicing, and regulatory reporting.
+
+## What I Did
+- Designed and maintained ELT pipelines using Snowflake and DBT to enable
+  risk monitoring, delinquency tracking, and compliance reporting (CCAR, SOX).
+- Built automated ingestion frameworks using Fivetran to integrate data
+  from loan origination systems, CRM platforms, and third-party vendors.
+- Developed DBT models with data quality and reconciliation tests to ensure
+  audit readiness and data integrity.
+- Engineered batch and real-time pipelines using Azure Databricks, Kafka,
+  and Spark Streaming for high-volume mortgage and borrower activity data.
+- Built CI/CD pipelines for data and ML workloads using Azure DevOps.
+- Deployed and managed containerized services using Docker and Kubernetes.
+- Delivered executive dashboards using Power BI for mortgage KPIs and trends.
+
+## Technologies
+Azure, Snowflake, DBT, Fivetran, Databricks, Kafka, Spark, Power BI,
+Docker, Kubernetes, Azure DevOps
