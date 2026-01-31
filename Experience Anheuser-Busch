@@ -1,0 +1,18 @@
+# Anheuser Busch – Data Engineer
+
+Worked on AWS-based data platforms supporting supply chain, sales,
+and manufacturing analytics at scale.
+
+## What I Did
+- Migrated legacy on-prem systems to AWS and implemented Amazon Redshift
+  as a centralized enterprise data warehouse.
+- Designed ETL/ELT pipelines using AWS Glue to ingest data from S3,
+  Parquet, ORC, and relational sources.
+- Built Lambda-based data services and reusable Spark libraries for
+  event-driven analytics.
+- Automated infrastructure provisioning using Terraform and CloudFormation.
+- Developed PySpark and Spark SQL workloads for production and sales analytics.
+- Implemented REST APIs for secure data exchange between enterprise systems.
+
+## Technologies
+AWS Redshift, S3, Glue, Lambda, Terraform, Spark, PySpark, SQL, Docker
