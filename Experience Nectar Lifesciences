@@ -1,0 +1,17 @@
+# Nectar Lifesciences – Data Engineer
+
+Built scalable data and analytics platforms supporting pharmaceutical
+manufacturing, quality, and compliance processes.
+
+## What I Did
+- Designed cloud-native data pipelines using Azure Databricks and Azure Data Factory.
+- Orchestrated workflows using Apache Airflow for manufacturing and quality analytics.
+- Implemented Kafka-based real-time ingestion for equipment telemetry and events.
+- Deployed containerized analytics and ML services using Kubernetes.
+- Implemented IaC using Terraform to support regulated cloud environments.
+- Built Snowflake pipelines for batch and streaming analytics.
+- Implemented Splunk monitoring and alerting for operational visibility.
+
+## Technologies
+Azure Databricks, ADF, Kafka, Snowflake, Airflow, Kubernetes,
+Terraform, Splunk, Spark
