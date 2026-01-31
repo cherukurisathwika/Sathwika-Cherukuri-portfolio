@@ -1,0 +1,16 @@
+# ICICI Bank – Data Engineer
+
+Developed banking data platforms for transaction processing,
+risk analytics, and regulatory reporting.
+
+## What I Did
+- Built batch and streaming pipelines using Azure Databricks and Kafka.
+- Developed SQL and PL/SQL programs for high-volume financial data processing.
+- Ingested data using Azure Data Factory into Azure Data Lake and Synapse.
+- Implemented Airflow for end-to-end ETL orchestration.
+- Designed analytics-ready datasets for Power BI and Tableau dashboards.
+- Ensured data quality, reconciliation, and compliance with banking regulations.
+
+## Technologies
+Azure Databricks, ADF, Kafka, Snowflake, SQL, Spark,
+Power BI, Tableau
